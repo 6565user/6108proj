@@ -7,9 +7,7 @@ A board game that reinforces the networking concepts introduced in the morning l
 | File | Description |
 | --- | --- |
 | [Board_Game_Rulebook.pdf](Board_Game_Rulebook.pdf) | English rulebook covering setup, gameplay, board events, printable components, and the host guide for related experiments. |
-| [桌游规则说明书.pdf](桌游规则说明书.pdf) | Chinese version of the rulebook. |
 | [Board_Game_Printable_Components.pdf](Board_Game_Printable_Components.pdf) | Separate printing pack containing the board, router cards, route cards, movement and resource cards, question cards, player panels, and ACL markers. |
-| [Network_Monopoly_Introduction_brief.mp4](Network_Monopoly_Introduction_brief.mp4) | Short introduction to the game, its connection to the lessons and experiments, and its learning purpose. Includes English narration and Chinese and English subtitles. |
 | [Network_Monopoly_How_to_Play_Bilingual.mp4](Network_Monopoly_How_to_Play_Bilingual.mp4) | Detailed gameplay animation demonstrating setup, turns, packet delivery, resource settlement, and special events. Includes English narration and Chinese and English subtitles. |
 
 ## Suggested Use
