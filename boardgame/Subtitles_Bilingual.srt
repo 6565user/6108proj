@@ -1,0 +1,74 @@
+1
+00:00:00,000 --> 00:00:03,526
+Hello everyone. This is our board game, Network Monopoly.
+大家好，这是我们的桌游《Network Monopoly》。
+
+2
+00:00:03,526 --> 00:00:11,360
+It is based on the networking concepts students learned in the morning session and practised in the Packet Tracer experiments.
+它基于上午课程中的网络知识，以及 Packet Tracer 实验中练习的内容。
+
+3
+00:00:12,000 --> 00:00:13,284
+Here is our rulebook.
+这是我们的规则说明书。
+
+4
+00:00:13,284 --> 00:00:18,100
+It includes the game setup, the rules, and the board and cards needed to play.
+它包含游戏准备、玩法，以及所需的棋盘和卡牌。
+
+5
+00:00:18,708 --> 00:00:20,909
+The game is for four players.
+游戏由四名玩家参与。
+
+6
+00:00:20,909 --> 00:00:23,110
+Each player starts with five resources.
+每人开始时拥有五个资源。
+
+7
+00:00:23,110 --> 00:00:29,712
+Players take turns drawing a movement card, moving around the board, and following the event on their space.
+玩家轮流抽取移动卡，在棋盘上移动，并执行所在格子的事件。
+
+8
+00:00:30,333 --> 00:00:38,975
+Different spaces represent different events, such as buying a router, answering a question, or completing a packet delivery task.
+不同格子代表不同事件，例如购买路由器、回答问题或完成数据包传输任务。
+
+9
+00:00:39,583 --> 00:00:42,983
+The game connects these actions to networking concepts.
+游戏将这些行动与网络知识联系起来。
+
+10
+00:00:42,983 --> 00:00:49,358
+Players build links between routers and find a route for packets to travel between networks.
+玩家在路由器之间建立连接，并为数据包寻找跨网络传输的路径。
+
+11
+00:00:49,358 --> 00:00:52,757
+The tasks introduce IP subnets, gateways, and routing.
+任务涉及 IP 子网、网关和路由。
+
+12
+00:00:52,757 --> 00:00:57,007
+Some events also show how access control can block traffic.
+一些事件也展示了访问控制如何阻止流量通过。
+
+13
+00:00:57,625 --> 00:01:01,881
+After eight turns per player, the player with the most resources wins.
+每位玩家完成八个回合后，资源最多的玩家获胜。
+
+14
+00:01:02,500 --> 00:01:05,630
+Our board game simplifies how a network works.
+我们的桌游简化了网络运行过程。
+
+15
+00:01:05,630 --> 00:01:14,627
+By playing and discussing their choices, students can review what they learned in the lessons and experiments, and strengthen their understanding through practice.
+通过游戏和讨论，同学们可以回顾课程与实验中的知识，并在实践中巩固学习成果。
